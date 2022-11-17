@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am Sarcastic**
 
-- <img align="center" src="https://img.icons8.com/fluency/48/null/portfolio.png" alt="mohit_sharmma" height="20" width="20" /> This is my <a href="https://akshaypareekportfilio.netlify.app/" target="blank">Portfolio </a>
+- <img align="center" src="https://img.icons8.com/fluency/48/null/portfolio.png" alt="mohit_sharmma" height="20" width="20" /> This is my <a href="https://akshayportfolio-01.netlify.app/" target="blank">Portfolio </a>
 </p>
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit_sharmma" height="20" width="20" />  Connect With Me on <a href="https://www.linkedin.com/in/akshay-pareek-377435216" target="blank">LinkedIn</a>
