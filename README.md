@@ -13,7 +13,7 @@
 
 - 📫 How to reach me [Email](mailto:akshaypareek.work@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_d-JP-xkc8WX593gsJ4VKEmD3hSD7enl/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ogbT0UkcLEC5gADxGVJ99VkU4KPiB1_a/view?usp=share_link)
 
 - ⚡ Fun fact **I am Sarcastic**
 
