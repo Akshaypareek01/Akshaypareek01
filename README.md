@@ -61,7 +61,7 @@ I'm a **Full Stack Architect** specializing in building scalable, intelligent ap
 
 | 🌐 Portfolio | 💼 LinkedIn | 📧 Email | 📁 Projects | 📋 Resume |
 |:---:|:---:|:---:|:---:|:---:|
-| [Visit Portfolio](https://akshayportfolio-01.netlify.app/) | [Connect](https://linkedin.com/in/akshaypareek01) | [Email Me](mailto:akshaypareek.work@gmail.com) | [View Projects](https://github.com/Akshaypareek01) | [Download](https://drive.google.com/file/d/1ogbT0UkcLEC5gADxGVJ99VkU4KPiB1_a/view?usp=share_link) |
+| <a href="https://akshayportfolio-01.netlify.app/" target="_blank" rel="noopener noreferrer">Visit Portfolio</a> | <a href="https://www.linkedin.com/in/akshay-pareek-377435216" target="_blank" rel="noopener noreferrer">Connect</a> | <a href="mailto:akshaypareek.work@gmail.com" target="_blank" rel="noopener noreferrer">Email Me</a> | <a href="https://github.com/Akshaypareek01" target="_blank" rel="noopener noreferrer">View Projects</a> | <a href="https://drive.google.com/file/d/1ogbT0UkcLEC5gADxGVJ99VkU4KPiB1_a/view?usp=share_link" target="_blank" rel="noopener noreferrer">Download</a> |
 
 </div>
 
@@ -205,10 +205,10 @@ I'm a **Full Stack Architect** specializing in building scalable, intelligent ap
 <img src="https://img.shields.io/badge/Open_To_Collaborate-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Open To Collaborate"/>
 
 **Reach Out:**
-- 📧 [Email](mailto:akshaypareek.work@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/akshaypareek01)
-- 🌐 [Portfolio](https://akshayportfolio-01.netlify.app/)
-- 💻 [GitHub](https://github.com/Akshaypareek01)
+- 📧 <a href="mailto:akshaypareek.work@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
+- 💼 <a href="https://www.linkedin.com/in/akshay-pareek-377435216" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- 🌐 <a href="https://akshayportfolio-01.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+- 💻 <a href="https://github.com/Akshaypareek01" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ---
 
