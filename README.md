@@ -1,39 +1,115 @@
-<h1 align="left">Hi 👋, I'm Akshay Pareek</h1>
-<h3 align="left">I am a Versatilist and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
-
-- 🔭 I’m currently working on **Something New**
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 Some of my projects are available at [Github](https://github.com/Akshaypareek01)
-
-- 💬 Ask me about **CSS**
-
-- 📫 How to reach me [Email](mailto:akshaypareek.work@gmail.com)
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ogbT0UkcLEC5gADxGVJ99VkU4KPiB1_a/view?usp=share_link)
-
-- ⚡ Fun fact **I am Sarcastic**
-
-- <img align="center" src="https://img.icons8.com/fluency/48/null/portfolio.png" alt="mohit_sharmma" height="20" width="20" /> This is my <a href="https://akshayportfolio-01.netlify.app/" target="blank">Portfolio </a>
-</p>
-
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit_sharmma" height="20" width="20" />  Connect With Me on <a href="https://www.linkedin.com/in/akshay-pareek-377435216" target="blank">LinkedIn</a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshaypareek01&label=Profile%20views&color=0e75b6&style=flat" alt="Akshaypareek01" /> </p>
-
-<div>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshaypareek01&show_icons=true&locale=en" alt="Akshaypareek01" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaypareek01&" alt="Akshaypareek01" /></p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=600&lines=Hi+👋,+I'm+Akshay+Pareek;Full+Stack+Web+Developer;React+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="300px" alt="Coding animation" style="border-radius: 10px;"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshaypareek01&show_icons=true&locale=en&layout=compact" alt="Akshaypareek01" /></p>
+---
 
+<div align="center">
+
+### 🚀 About Me
+
+I'm a **Full Stack Web Developer** with a passion for creating beautiful, user-friendly web experiences. I love exploring new technologies and building innovative solutions.
+
+**Versatile | Creative | Passionate about Code**
+
+</div>
+
+---
+
+### 💼 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>🔭 Working On</strong><br>
+        <em>Building Something New & Exciting</em>
+      </td>
+      <td align="center" width="50%">
+        <strong>🌱 Learning</strong><br>
+        <em>Advanced React & Modern Web Technologies</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <strong>💬 Ask Me About</strong><br>
+        <em>CSS, JavaScript, Web Development</em>
+      </td>
+      <td align="center" width="50%">
+        <strong>⚡ Fun Fact</strong><br>
+        <em>I'm Sarcastic & Love Coffee ☕</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📌 Quick Links
+
+<div align="center">
+
+| 🌐 Portfolio | 💼 LinkedIn | 📧 Email | 📁 Projects |
+|:---:|:---:|:---:|:---:|
+| [Visit Portfolio](https://akshayportfolio-01.netlify.app/) | [Connect](https://linkedin.com/in/akshaypareek01) | [Email Me](mailto:akshaypareek.work@gmail.com) | [View Projects](https://github.com/Akshaypareek01) |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+**Tools & Libraries**
+<br>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Akshaypareek01&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akshaypareek01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaypareek01&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshaypareek01&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect!
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+
+**Made with ❤️ by Akshay Pareek**
+
+</div>
